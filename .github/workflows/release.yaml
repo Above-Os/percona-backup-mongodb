@@ -24,4 +24,4 @@ jobs:
       with:
         push: true
         tags: beclab/percona-backup-mongo:2.2.1
-        file: docker/Dockerfile.k8sext
+        file: docker/Dockerfile.k8s
